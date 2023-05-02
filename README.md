@@ -1,4 +1,4 @@
-Google Image Downloader
+# Google Image Downloader
 
 This Python script allows you to easily download multiple images from Google Images using their URLs.
 
