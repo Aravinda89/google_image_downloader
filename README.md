@@ -2,5 +2,5 @@
 google image downloader
 
 on Chrome
-View => Developer => JavaScript Console
-code.py - paste this code in console
+Right Click -> Inspect -> Console
+code.py - paste this code in Console
