@@ -11,14 +11,17 @@ Usage
     Open a terminal or command prompt and navigate to the folder where the dwnld_imgs1.py script and urls.txt file are located.
     Run the following command to start downloading the images:
     
-
+```
 python dwnld_imgs1.py -u urls.txt -o output_dir
+```
 
   Replace output_dir with the name of the folder where you want to save the downloaded images.
   Note: You may need to install the requests and tqdm Python packages before running the script. You can install them by running the following commands:
-  
+ 
+ ```
   pip install requests
   pip install tqdm
+  ```
   
   Disclaimer
   Please note that downloading images from Google Images may violate their terms of service and/or copyright laws. Use this script at your own risk.
