@@ -2,8 +2,9 @@
 google image downloader
 
 on Chrome
+go to google images and search the images
 Right Click -> Inspect -> Console
-code.py - paste this code in Console
+code.txt - paste this code in Console
 This will download a urls.txt file will all the image linkes
 
 then run
